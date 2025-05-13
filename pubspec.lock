@@ -201,7 +201,7 @@ packages:
     source: hosted
     version: "2.5.3"
   shared_preferences_android:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
       name: shared_preferences_android
       sha256: "20cbd561f743a342c76c151d6ddb93a9ce6005751e7aa458baad3858bfbfb6ac"
@@ -335,4 +335,4 @@ packages:
     version: "1.1.0"
 sdks:
   dart: ">=3.6.1 <4.0.0"
-  flutter: ">=3.27.0"
+  flutter: ">=3.24.0"
